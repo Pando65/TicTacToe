@@ -15,7 +15,7 @@
         Dim w As Integer = 0
         For i = 0 To 7
             If cuenta(i) = 3 Then
-                MsgBox("Gana X")
+                MsgBox("X Wins", , "Game over")
                 For j = 0 To 8
                     mark(j) = True
                 Next
@@ -23,7 +23,7 @@
                 Exit Sub
             End If
             If cuenta(i) = -3 Then
-                MsgBox("Gana O")
+                MsgBox("O Wins", , "Game over")
                 For t = 0 To 8
                     mark(t) = True
                 Next
@@ -32,7 +32,7 @@
             End If
         Next
         If ocu = 9 Then
-            MsgBox("Gano Gato")
+            MsgBox("Cat wins", , "Game over")
 
         End If
     End Sub

@@ -32,7 +32,7 @@ Partial Class Form3
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(157, 33)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "2 Jugadores"
+        Me.Button1.Text = "2 Players"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
@@ -41,7 +41,7 @@ Partial Class Form3
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(159, 33)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "1 Jugador"
+        Me.Button2.Text = "1 Player"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Form3
@@ -52,7 +52,7 @@ Partial Class Form3
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form3"
-        Me.Text = "Form3"
+        Me.Text = "Select an option"
         Me.ResumeLayout(False)
 
     End Sub

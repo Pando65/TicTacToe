@@ -50,7 +50,7 @@ Partial Class Form4
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(100, 246)
+        Me.Button1.Location = New System.Drawing.Point(100, 254)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 3
@@ -68,16 +68,16 @@ Partial Class Form4
         Me.GroupBox1.Controls.Add(Me.PictureBox3)
         Me.GroupBox1.Controls.Add(Me.PictureBox2)
         Me.GroupBox1.Controls.Add(Me.PictureBox1)
-        Me.GroupBox1.Location = New System.Drawing.Point(14, -6)
+        Me.GroupBox1.Location = New System.Drawing.Point(14, 8)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(257, 235)
+        Me.GroupBox1.Size = New System.Drawing.Size(257, 240)
         Me.GroupBox1.TabIndex = 2
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Miau"
         '
         'PictureBox9
         '
-        Me.PictureBox9.Location = New System.Drawing.Point(171, 180)
+        Me.PictureBox9.Location = New System.Drawing.Point(171, 172)
         Me.PictureBox9.Name = "PictureBox9"
         Me.PictureBox9.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -87,7 +87,7 @@ Partial Class Form4
         '
         'PictureBox8
         '
-        Me.PictureBox8.Location = New System.Drawing.Point(99, 180)
+        Me.PictureBox8.Location = New System.Drawing.Point(99, 172)
         Me.PictureBox8.Name = "PictureBox8"
         Me.PictureBox8.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -97,7 +97,7 @@ Partial Class Form4
         '
         'PictureBox7
         '
-        Me.PictureBox7.Location = New System.Drawing.Point(28, 180)
+        Me.PictureBox7.Location = New System.Drawing.Point(28, 172)
         Me.PictureBox7.Name = "PictureBox7"
         Me.PictureBox7.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -107,7 +107,7 @@ Partial Class Form4
         '
         'PictureBox6
         '
-        Me.PictureBox6.Location = New System.Drawing.Point(171, 109)
+        Me.PictureBox6.Location = New System.Drawing.Point(171, 101)
         Me.PictureBox6.Name = "PictureBox6"
         Me.PictureBox6.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -117,7 +117,7 @@ Partial Class Form4
         '
         'PictureBox5
         '
-        Me.PictureBox5.Location = New System.Drawing.Point(99, 109)
+        Me.PictureBox5.Location = New System.Drawing.Point(99, 101)
         Me.PictureBox5.Name = "PictureBox5"
         Me.PictureBox5.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -127,7 +127,7 @@ Partial Class Form4
         '
         'PictureBox4
         '
-        Me.PictureBox4.Location = New System.Drawing.Point(28, 109)
+        Me.PictureBox4.Location = New System.Drawing.Point(28, 101)
         Me.PictureBox4.Name = "PictureBox4"
         Me.PictureBox4.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -137,7 +137,7 @@ Partial Class Form4
         '
         'PictureBox3
         '
-        Me.PictureBox3.Location = New System.Drawing.Point(171, 33)
+        Me.PictureBox3.Location = New System.Drawing.Point(171, 25)
         Me.PictureBox3.Name = "PictureBox3"
         Me.PictureBox3.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -147,7 +147,7 @@ Partial Class Form4
         '
         'PictureBox2
         '
-        Me.PictureBox2.Location = New System.Drawing.Point(99, 33)
+        Me.PictureBox2.Location = New System.Drawing.Point(99, 25)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -157,7 +157,7 @@ Partial Class Form4
         '
         'PictureBox1
         '
-        Me.PictureBox1.Location = New System.Drawing.Point(28, 33)
+        Me.PictureBox1.Location = New System.Drawing.Point(28, 25)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(52, 50)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -177,11 +177,11 @@ Partial Class Form4
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(284, 279)
+        Me.ClientSize = New System.Drawing.Size(284, 288)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "Form4"
-        Me.Text = "Form4"
+        Me.Text = "Play!"
         Me.GroupBox1.ResumeLayout(False)
         CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).EndInit()

@@ -43,3 +43,15 @@ H:\Gato\Gato\obj\Debug\Gato.Form4.resources
 \\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.Resources.resources
 \\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.vbproj.GenerateResource.Cache
 \\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.exe
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\Gato.exe
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\Gato.xml
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\Gato.pdb
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\bin\Debug\Gato.exe
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\bin\Debug\Gato.pdb
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\bin\Debug\Gato.xml
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\Gato.Form1.resources
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\Gato.Form3.resources
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\Gato.Form4.resources
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\Gato.Resources.resources
+\\psf\Home\Documents\VisualProjects\TicTacToe\Gato\obj\Debug\Gato.vbproj.GenerateResource.Cache
