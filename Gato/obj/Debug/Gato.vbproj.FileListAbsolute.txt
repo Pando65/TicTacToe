@@ -1,0 +1,45 @@
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\bin\Debug\Gato.exe
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\bin\Debug\Gato.pdb
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\bin\Debug\Gato.xml
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\obj\Debug\Gato.Form1.resources
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\obj\Debug\Gato.Resources.resources
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\obj\Debug\Gato.vbproj.GenerateResource.Cache
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\obj\Debug\Gato.exe
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\obj\Debug\Gato.xml
+C:\Users\gamerX\AppData\Local\Temporary Projects\Gato\obj\Debug\Gato.pdb
+H:\Gato\Gato\obj\Debug\Gato.exe
+H:\Gato\Gato\obj\Debug\Gato.xml
+H:\Gato\Gato\obj\Debug\Gato.pdb
+H:\Gato\Gato\bin\Debug\Gato.exe
+H:\Gato\Gato\bin\Debug\Gato.pdb
+H:\Gato\Gato\bin\Debug\Gato.xml
+H:\Gato\Gato\obj\Debug\ResolveAssemblyReference.cache
+H:\Gato\Gato\obj\Debug\Gato.Form1.resources
+H:\Gato\Gato\obj\Debug\Gato.Resources.resources
+H:\Gato\Gato\obj\Debug\Gato.vbproj.GenerateResource.Cache
+E:\Gato\Gato\obj\Debug\Gato.exe
+E:\Gato\Gato\obj\Debug\Gato.xml
+E:\Gato\Gato\obj\Debug\Gato.pdb
+E:\Gato\Gato\bin\Debug\Gato.exe
+E:\Gato\Gato\bin\Debug\Gato.pdb
+E:\Gato\Gato\bin\Debug\Gato.xml
+E:\Gato\Gato\obj\Debug\ResolveAssemblyReference.cache
+E:\Gato\Gato\obj\Debug\Gato.Form1.resources
+E:\Gato\Gato\obj\Debug\Gato.Resources.resources
+E:\Gato\Gato\obj\Debug\Gato.vbproj.GenerateResource.Cache
+E:\Gato\Gato\obj\Debug\Gato.Form3.resources
+H:\Gato\Gato\obj\Debug\Gato.Form3.resources
+H:\Gato\Gato\obj\Debug\Gato.Form4.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.xml
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.pdb
+\\psf\Home\Documents\VisualProjects\Gato\Gato\bin\Debug\Gato.exe
+\\psf\Home\Documents\VisualProjects\Gato\Gato\bin\Debug\Gato.pdb
+\\psf\Home\Documents\VisualProjects\Gato\Gato\bin\Debug\Gato.xml
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.Form1.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.Form3.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.Form4.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.Resources.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.vbproj.GenerateResource.Cache
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Debug\Gato.exe

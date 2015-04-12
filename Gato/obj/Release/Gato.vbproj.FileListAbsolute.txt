@@ -1,0 +1,12 @@
+\\psf\Home\Documents\VisualProjects\Gato\Gato\bin\Release\Gato.exe
+\\psf\Home\Documents\VisualProjects\Gato\Gato\bin\Release\Gato.pdb
+\\psf\Home\Documents\VisualProjects\Gato\Gato\bin\Release\Gato.xml
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\ResolveAssemblyReference.cache
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\Gato.Form1.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\Gato.Form3.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\Gato.Form4.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\Gato.Resources.resources
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\Gato.vbproj.GenerateResource.Cache
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\Gato.exe
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\Gato.xml
+\\psf\Home\Documents\VisualProjects\Gato\Gato\obj\Release\Gato.pdb
